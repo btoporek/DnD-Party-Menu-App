@@ -1,7 +1,7 @@
 // MENU DRIVEN APP FOR ADD PARTIES AND CHARACTERS IN D&D
 /* Elements that we need:
 -DnD party: name of party and insert characters into party
--Characters (AKA Adventurers): race and class 
+-Characters (AKA Adventurers): name and race
 -Need to create, view and delete elements
 */
 
